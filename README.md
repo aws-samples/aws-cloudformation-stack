@@ -1,3 +1,5 @@
+**repository _moved_, maintained elsewhere -> https://github.com/curlim/aws-cloudformation-stack**
+
 # Cross-Account Cloudformation Stack Resource Provider
 
 This AWS CloudFormation resource provider implements the creation/update/delete of a AWS CloudFormation stack cross-account
